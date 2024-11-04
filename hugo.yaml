@@ -1,0 +1,36 @@
+baseURL: 'https://elixir.abudhabi/'
+baseurl: 'https://elixir.abudhabi/'
+languageCode: en-us
+title: Elixir Abu Dhabi
+theme: hugo-tufte
+paginate: 25
+canonifyurls: true
+hasCJKLanguage: false
+
+params:
+  # subtitle: Homepage for Elixir Abu Dhabi
+  github: lorrrrrrrenzo
+  twitter: lorrrrrrrenzo
+  showPoweredBy: true
+  codeBlocksDark: true
+  showSummary: true
+
+menu:
+  nav:
+    - name: Home
+      identifier: home
+      url: /
+      weight: -200
+    - name: About
+      url: /about/
+      identifier: about
+      weight: -190
+    - name: Posts
+      identifier: posts
+      url: /posts/
+      weight: -100
+    - name: Workshops
+      url: /workshops
+      identifier: workshops
+      weight: -180
+...

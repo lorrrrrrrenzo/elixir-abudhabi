@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elixir Abu Dhabi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Elixir Abu Dhabi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 17:33:25 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 04 Nov 2024 17:33:25 +0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;An Elixir meetup in Abu Dhabi for devs who want to build high-performance, reliable systems. We dive into functional programming, concurrency, and distributed systems, sharing tips and hacks for building scalable apps. Join us to learn, connect, and push what’s possible in the UAE tech scene!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link>http://localhost:1313/workshops/</link>
+      <pubDate>Mon, 04 Nov 2024 17:33:25 +0400</pubDate>
+      <guid>http://localhost:1313/workshops/</guid>
+      <description>&lt;p&gt;Announced workshops will appear here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motivation</title>
+      <link>http://localhost:1313/posts/motivation/</link>
+      <pubDate>Mon, 04 Nov 2024 17:31:47 +0400</pubDate>
+      <guid>http://localhost:1313/posts/motivation/</guid>
+      <description>&lt;p&gt;An Elixir meetup in Abu Dhabi is all about connecting people who want to build reliable, high-performance systems without unnecessary complexity. Elixir, with its functional programming roots and lightweight concurrency model, is perfect for anyone dealing with distributed systems, high traffic, or complex workflows.&lt;/p&gt;&#xA;&lt;p&gt;Elixir runs on the BEAM, the same virtual machine as Erlang, giving it serious power for concurrency and fault tolerance. This means you can build applications that stay fast and resilient, even under heavy load. For developers here, that’s a big advantage—especially in sectors like finance, logistics, and telecom, where downtime is costly and apps need to scale smoothly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
