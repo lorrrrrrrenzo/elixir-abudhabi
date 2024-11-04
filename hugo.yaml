@@ -25,6 +25,10 @@ menu:
       url: /about/
       identifier: about
       weight: -190
+    - name: Meet Ups
+      url: /meetups/
+      weight: -188
+      identifier: meetups
     - name: Posts
       identifier: posts
       url: /posts/
